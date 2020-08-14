@@ -39,7 +39,7 @@ For more detail about each of these steps, see the project lesson [here](https:/
 
 ## API endpoint
 
-a773ebc52728145d096aa9f305bfecfc-1977917790.us-west-2.elb.amazonaws.com
+http://a773ebc52728145d096aa9f305bfecfc-1977917790.us-west-2.elb.amazonaws.com
 
 ## References
 
