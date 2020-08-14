@@ -36,3 +36,21 @@ Completing the project involves several steps:
 6. Create a CodeBuild stage which will build, test, and deploy your code
 
 For more detail about each of these steps, see the project lesson [here](https://classroom.udacity.com/nanodegrees/nd004/parts/1d842ebf-5b10-4749-9e5e-ef28fe98f173/modules/ac13842f-c841-4c1a-b284-b47899f4613d/lessons/becb2dac-c108-4143-8f6c-11b30413e28d/concepts/092cdb35-28f7-4145-b6e6-6278b8dd7527).
+
+## API endpoint
+
+a773ebc52728145d096aa9f305bfecfc-1977917790.us-west-2.elb.amazonaws.com
+
+##References
+
+I used the following sources/pages as reference
+
+1. Managing users or IAM roles for your cluster - https://docs.aws.amazon.com/eks/latest/userguide/add-user-role.html
+2. Windows CMD & PowerShell commands - https://www.shellhacks.com/windows-cat-equivalent-cmd-powershell/#:~:text=The%20cat%20command%20in%20Linux,CMD)%20and%20a%20Windows%20PowerShell.
+3. Creating an Amazon EKS cluster - https://docs.aws.amazon.com/eks/latest/userguide/create-cluster.html
+4. AWS CLI command reference - https://docs.aws.amazon.com/cli/latest/reference/
+
+In addition, I used the following github dependecies for solving problems
+
+1. Solution of several questions when I was creating the stack and during the Build step - https://github.com/jungleBadger/FSND-Deploy-Flask-App-to-Kubernetes-Using-EKS/blob/master/troubleshooting/deploy.md
+2. Postman collection to test the endpoints - https://github.com/nicholaspretorius/udacity-deployment
