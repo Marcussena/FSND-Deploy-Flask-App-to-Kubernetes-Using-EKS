@@ -41,7 +41,7 @@ For more detail about each of these steps, see the project lesson [here](https:/
 
 a773ebc52728145d096aa9f305bfecfc-1977917790.us-west-2.elb.amazonaws.com
 
-##References
+## References
 
 I used the following sources/pages as reference
 
